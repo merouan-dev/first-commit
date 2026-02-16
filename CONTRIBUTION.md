@@ -25,7 +25,7 @@
       </tr>
             <tr>
         <td align="center">
-          <img src="[https://github.com/Ayoub-glitsh](https://github.com/merouan-dev).png" width="50" alt="Merouan avatar" />
+          <img src="https://github.com/merouan-dev.png" width="50" alt="Merouan avatar" />
         </td>
         <td>Merouan Errachidi</td>
         <td>

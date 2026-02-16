@@ -23,6 +23,15 @@
           <a href="https://github.com/Ayoub-glitsh">Ayoub-glitsh</a>
         </td>
       </tr>
+            <tr>
+        <td align="center">
+          <img src="[https://github.com/Ayoub-glitsh](https://github.com/merouan-dev).png" width="50" alt="Merouan avatar" />
+        </td>
+        <td>Merouan Errachidi</td>
+        <td>
+          <a href="https://github.com/merouan-dev">merouan-dev</a>
+        </td>
+      </tr>
       <tr>
         <td align="center">
           <img src="https://github.com/Ki-sra.png" width="50" alt="Ki-sra avatar" />
